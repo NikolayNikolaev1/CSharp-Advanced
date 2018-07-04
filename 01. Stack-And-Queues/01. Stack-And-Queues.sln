@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse-String", "01. Stack-And-Queues\Reverse-String.csproj", "{446A54AF-1D29-475D-9E34-FB6EA281E008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446A54AF-1D29-475D-9E34-FB6EA281E008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446A54AF-1D29-475D-9E34-FB6EA281E008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446A54AF-1D29-475D-9E34-FB6EA281E008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446A54AF-1D29-475D-9E34-FB6EA281E008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA30158-31E8-4474-BC45-0930A864A1BB}
+	EndGlobalSection
+EndGlobal
