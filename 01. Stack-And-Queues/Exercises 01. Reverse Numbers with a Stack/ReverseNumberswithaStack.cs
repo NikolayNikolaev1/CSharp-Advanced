@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Exercises_01._Reverse_Numbers_with_a_Stack
+﻿namespace Exercises_01._Reverse_Numbers_with_a_Stack
 {
+    using System;
+    using System.Collections.Generic;
+
     class ReverseNumberswithaStack
     {
         static void Main()
         {
-            string[] input = Console.ReadLine().Split();
+            string[] input = Console.ReadLine()
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             var stack = new Stack<int>();
 
             foreach (var number in input)
