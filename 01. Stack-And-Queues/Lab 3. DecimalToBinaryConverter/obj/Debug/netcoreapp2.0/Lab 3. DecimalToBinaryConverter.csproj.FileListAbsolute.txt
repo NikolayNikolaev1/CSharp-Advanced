@@ -1,0 +1,10 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 3. DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\Lab 3. DecimalToBinaryConverter.pdb
