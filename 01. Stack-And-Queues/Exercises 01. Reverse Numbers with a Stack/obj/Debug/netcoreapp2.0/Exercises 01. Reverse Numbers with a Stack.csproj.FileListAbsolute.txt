@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\bin\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 01. Reverse Numbers with a Stack\obj\Debug\netcoreapp2.0\Exercises 01. Reverse Numbers with a Stack.pdb
