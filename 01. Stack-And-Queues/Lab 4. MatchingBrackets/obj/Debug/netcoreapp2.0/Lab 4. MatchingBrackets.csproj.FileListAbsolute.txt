@@ -1,0 +1,10 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\bin\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\bin\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\bin\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\bin\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\bin\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\obj\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\obj\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\obj\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\obj\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 4. MatchingBrackets\obj\Debug\netcoreapp2.0\Lab 4. MatchingBrackets.pdb
