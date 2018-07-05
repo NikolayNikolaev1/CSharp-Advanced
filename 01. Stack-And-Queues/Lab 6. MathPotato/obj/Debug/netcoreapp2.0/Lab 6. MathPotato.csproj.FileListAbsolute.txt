@@ -1,0 +1,10 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\bin\Debug\netcoreapp2.0\Lab 6. MathPotato.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\bin\Debug\netcoreapp2.0\Lab 6. MathPotato.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\bin\Debug\netcoreapp2.0\Lab 6. MathPotato.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\bin\Debug\netcoreapp2.0\Lab 6. MathPotato.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\bin\Debug\netcoreapp2.0\Lab 6. MathPotato.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\obj\Debug\netcoreapp2.0\Lab 6. MathPotato.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\obj\Debug\netcoreapp2.0\Lab 6. MathPotato.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\obj\Debug\netcoreapp2.0\Lab 6. MathPotato.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\obj\Debug\netcoreapp2.0\Lab 6. MathPotato.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 6. MathPotato\obj\Debug\netcoreapp2.0\Lab 6. MathPotato.pdb
