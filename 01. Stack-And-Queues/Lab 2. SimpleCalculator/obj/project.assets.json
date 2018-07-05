@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\01. Stack-And-Queues\\01. Stack-And-Queues\\Lab 1. ReverseString.csproj",
-      "projectName": "Lab 1. ReverseString",
-      "projectPath": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\01. Stack-And-Queues\\01. Stack-And-Queues\\Lab 1. ReverseString.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\01. Stack-And-Queues\\Lab 2. SimpleCalculator\\Lab 2. SimpleCalculator.csproj",
+      "projectName": "Lab 2. SimpleCalculator",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\01. Stack-And-Queues\\Lab 2. SimpleCalculator\\Lab 2. SimpleCalculator.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\01. Stack-And-Queues\\01. Stack-And-Queues\\obj\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\01. Stack-And-Queues\\Lab 2. SimpleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

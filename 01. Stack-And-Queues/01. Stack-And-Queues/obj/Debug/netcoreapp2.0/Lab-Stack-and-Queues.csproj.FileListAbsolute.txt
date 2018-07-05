@@ -1,0 +1,4 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\01. Stack-And-Queues\obj\Debug\netcoreapp2.0\Lab-Stack-and-Queues.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\01. Stack-And-Queues\obj\Debug\netcoreapp2.0\Lab-Stack-and-Queues.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\01. Stack-And-Queues\obj\Debug\netcoreapp2.0\Lab-Stack-and-Queues.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\01. Stack-And-Queues\obj\Debug\netcoreapp2.0\Lab-Stack-and-Queues.AssemblyInfo.cs

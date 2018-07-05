@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace _01._Stack_And_Queues
+﻿namespace _01._Stack_And_Queues
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+
+    class ReverseString
     {
         static void Main()
         {
@@ -19,6 +19,8 @@ namespace _01._Stack_And_Queues
             {
                 Console.Write(stack.Pop());
             }
+
+            Console.WriteLine();
         }
     }
 }

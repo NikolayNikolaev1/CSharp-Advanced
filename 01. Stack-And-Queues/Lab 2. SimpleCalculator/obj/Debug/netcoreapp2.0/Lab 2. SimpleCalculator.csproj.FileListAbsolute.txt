@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\bin\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\bin\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\bin\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\bin\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\bin\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\obj\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\obj\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\obj\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\obj\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\obj\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 2. SimpleCalculator\obj\Debug\netcoreapp2.0\Lab 2. SimpleCalculator.pdb
