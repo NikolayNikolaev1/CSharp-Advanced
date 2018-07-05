@@ -14,7 +14,9 @@
             {
                 char ch = input[i];
                 if (ch == '(')
+                {
                     stack.Push(i);
+                }
                 else if (ch == ')')
                 {
                     int startIndex = stack.Pop();

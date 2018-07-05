@@ -1,0 +1,10 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\bin\Debug\netcoreapp2.0\Lab 5. HotPotato.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\bin\Debug\netcoreapp2.0\Lab 5. HotPotato.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\bin\Debug\netcoreapp2.0\Lab 5. HotPotato.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\bin\Debug\netcoreapp2.0\Lab 5. HotPotato.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\bin\Debug\netcoreapp2.0\Lab 5. HotPotato.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\obj\Debug\netcoreapp2.0\Lab 5. HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\obj\Debug\netcoreapp2.0\Lab 5. HotPotato.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\obj\Debug\netcoreapp2.0\Lab 5. HotPotato.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\obj\Debug\netcoreapp2.0\Lab 5. HotPotato.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Lab 5. HotPotato\obj\Debug\netcoreapp2.0\Lab 5. HotPotato.pdb
