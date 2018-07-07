@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 02. Basic Stack O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 03. Maximum Element", "Exercises 03. Maximum Element\Exercises 03. Maximum Element.csproj", "{5DFF0E4D-6DED-4B99-821F-B95FBBCB4BCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 04. Basic Queue Operations", "Exercises 04. Basic Queue Operations\Exercises 04. Basic Queue Operations.csproj", "{671FF530-1940-4D51-8E3C-AA94CAE8F62D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 04. Basic Queue Operations", "Exercises 04. Basic Queue Operations\Exercises 04. Basic Queue Operations.csproj", "{671FF530-1940-4D51-8E3C-AA94CAE8F62D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 05. Calculate Sequence with Queue", "Exercises 05. Calculate Sequence with Queue\Exercises 05. Calculate Sequence with Queue.csproj", "{76D33922-94B2-4ABA-BF34-CCFEB1AD06AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 05. Calculate Sequence with Queue", "Exercises 05. Calculate Sequence with Queue\Exercises 05. Calculate Sequence with Queue.csproj", "{76D33922-94B2-4ABA-BF34-CCFEB1AD06AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 06. Truck Tour", "Exercises 06. Truck Tour\Exercises 06. Truck Tour.csproj", "{F812A2E1-48AE-4739-A809-BE75247000DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{76D33922-94B2-4ABA-BF34-CCFEB1AD06AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76D33922-94B2-4ABA-BF34-CCFEB1AD06AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76D33922-94B2-4ABA-BF34-CCFEB1AD06AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F812A2E1-48AE-4739-A809-BE75247000DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F812A2E1-48AE-4739-A809-BE75247000DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F812A2E1-48AE-4739-A809-BE75247000DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F812A2E1-48AE-4739-A809-BE75247000DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
