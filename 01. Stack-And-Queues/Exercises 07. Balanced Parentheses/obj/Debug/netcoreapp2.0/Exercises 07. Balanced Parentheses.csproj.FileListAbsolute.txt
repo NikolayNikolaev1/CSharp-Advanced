@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\bin\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\bin\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\bin\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\bin\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\bin\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\obj\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\obj\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\obj\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\obj\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\obj\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 07. Balanced Parentheses\obj\Debug\netcoreapp2.0\Exercises 07. Balanced Parentheses.pdb
