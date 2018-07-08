@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 04. Basic Queue O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 05. Calculate Sequence with Queue", "Exercises 05. Calculate Sequence with Queue\Exercises 05. Calculate Sequence with Queue.csproj", "{76D33922-94B2-4ABA-BF34-CCFEB1AD06AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 06. Truck Tour", "Exercises 06. Truck Tour\Exercises 06. Truck Tour.csproj", "{F812A2E1-48AE-4739-A809-BE75247000DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 06. Truck Tour", "Exercises 06. Truck Tour\Exercises 06. Truck Tour.csproj", "{F812A2E1-48AE-4739-A809-BE75247000DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 07. Balanced Parentheses", "Exercises 07. Balanced Parentheses\Exercises 07. Balanced Parentheses.csproj", "{2C3EF48E-B770-4F9D-9403-4E3FCE421F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 07. Balanced Parentheses", "Exercises 07. Balanced Parentheses\Exercises 07. Balanced Parentheses.csproj", "{2C3EF48E-B770-4F9D-9403-4E3FCE421F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 08. Recursive Fibonacci", "Exercises 08. Recursive Fibonacci\Exercises 08. Recursive Fibonacci.csproj", "{B22393FA-92BB-48B3-857C-93E8CB0B06BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{2C3EF48E-B770-4F9D-9403-4E3FCE421F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C3EF48E-B770-4F9D-9403-4E3FCE421F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C3EF48E-B770-4F9D-9403-4E3FCE421F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22393FA-92BB-48B3-857C-93E8CB0B06BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22393FA-92BB-48B3-857C-93E8CB0B06BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22393FA-92BB-48B3-857C-93E8CB0B06BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22393FA-92BB-48B3-857C-93E8CB0B06BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
