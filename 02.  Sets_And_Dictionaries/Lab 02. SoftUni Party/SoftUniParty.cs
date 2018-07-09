@@ -17,10 +17,10 @@
                 {
                     break;
                 }
-                if ()
-                {
-                    vip.Add(input);
-                }
+                //if ()
+                //{
+                //    vip.Add(input);
+                //}
                 else
                 {
                     regular.Add(input);

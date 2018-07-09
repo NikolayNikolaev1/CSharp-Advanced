@@ -1,0 +1,10 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\bin\Debug\netcoreapp2.0\Lab 04. Academy Graduation.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\bin\Debug\netcoreapp2.0\Lab 04. Academy Graduation.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\bin\Debug\netcoreapp2.0\Lab 04. Academy Graduation.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\bin\Debug\netcoreapp2.0\Lab 04. Academy Graduation.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\bin\Debug\netcoreapp2.0\Lab 04. Academy Graduation.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\obj\Debug\netcoreapp2.0\Lab 04. Academy Graduation.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\obj\Debug\netcoreapp2.0\Lab 04. Academy Graduation.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\obj\Debug\netcoreapp2.0\Lab 04. Academy Graduation.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\obj\Debug\netcoreapp2.0\Lab 04. Academy Graduation.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Lab 04. Academy Graduation\obj\Debug\netcoreapp2.0\Lab 04. Academy Graduation.pdb

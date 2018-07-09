@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 02. SoftUni Party", "La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 03. Count Same Values in Array", "Lab 03. Count Same Values in Array\Lab 03. Count Same Values in Array.csproj", "{1A7C7D57-69C4-4B75-85DD-47A920D49999}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 04. Academy Graduation", "Lab 04. Academy Graduation\Lab 04. Academy Graduation.csproj", "{9BB57C56-2CCA-4EC4-B24C-DC24BB65FAF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1A7C7D57-69C4-4B75-85DD-47A920D49999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A7C7D57-69C4-4B75-85DD-47A920D49999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A7C7D57-69C4-4B75-85DD-47A920D49999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB57C56-2CCA-4EC4-B24C-DC24BB65FAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB57C56-2CCA-4EC4-B24C-DC24BB65FAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB57C56-2CCA-4EC4-B24C-DC24BB65FAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB57C56-2CCA-4EC4-B24C-DC24BB65FAF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
