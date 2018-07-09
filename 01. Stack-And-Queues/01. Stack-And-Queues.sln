@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 07. Balanced Pare
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 08. Recursive Fibonacci", "Exercises 08. Recursive Fibonacci\Exercises 08. Recursive Fibonacci.csproj", "{B22393FA-92BB-48B3-857C-93E8CB0B06BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 09. Simple Text Editor", "Exercises 09. Simple Text Editor\Exercises 09. Simple Text Editor.csproj", "{C54304E5-4848-48A3-8327-DBDD84FBD3CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 09. Simple Text Editor", "Exercises 09. Simple Text Editor\Exercises 09. Simple Text Editor.csproj", "{C54304E5-4848-48A3-8327-DBDD84FBD3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 10. Poisonous Plants", "Exercises 10. Poisonous Plants\Exercises 10. Poisonous Plants.csproj", "{8CFE41B0-ED2F-4BA4-A75C-377CBF9B0BC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{C54304E5-4848-48A3-8327-DBDD84FBD3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C54304E5-4848-48A3-8327-DBDD84FBD3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C54304E5-4848-48A3-8327-DBDD84FBD3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFE41B0-ED2F-4BA4-A75C-377CBF9B0BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFE41B0-ED2F-4BA4-A75C-377CBF9B0BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFE41B0-ED2F-4BA4-A75C-377CBF9B0BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFE41B0-ED2F-4BA4-A75C-377CBF9B0BC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

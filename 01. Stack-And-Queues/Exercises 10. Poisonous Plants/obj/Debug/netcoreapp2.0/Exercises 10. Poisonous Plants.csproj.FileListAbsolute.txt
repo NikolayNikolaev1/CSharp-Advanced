@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\bin\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\bin\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\bin\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\bin\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\bin\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\obj\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\obj\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\obj\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\obj\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\obj\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\01. Stack-And-Queues\Exercises 10. Poisonous Plants\obj\Debug\netcoreapp2.0\Exercises 10. Poisonous Plants.pdb
