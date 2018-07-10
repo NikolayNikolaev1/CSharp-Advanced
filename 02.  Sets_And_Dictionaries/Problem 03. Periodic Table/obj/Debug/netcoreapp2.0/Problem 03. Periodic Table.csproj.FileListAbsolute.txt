@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\bin\Debug\netcoreapp2.0\Problem 03. Periodic Table.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\bin\Debug\netcoreapp2.0\Problem 03. Periodic Table.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\bin\Debug\netcoreapp2.0\Problem 03. Periodic Table.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\bin\Debug\netcoreapp2.0\Problem 03. Periodic Table.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\bin\Debug\netcoreapp2.0\Problem 03. Periodic Table.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\obj\Debug\netcoreapp2.0\Problem 03. Periodic Table.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\obj\Debug\netcoreapp2.0\Problem 03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\obj\Debug\netcoreapp2.0\Problem 03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\obj\Debug\netcoreapp2.0\Problem 03. Periodic Table.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\obj\Debug\netcoreapp2.0\Problem 03. Periodic Table.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Problem 03. Periodic Table\obj\Debug\netcoreapp2.0\Problem 03. Periodic Table.pdb
