@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\bin\Debug\netcoreapp2.0\Exercises 02. Phonebook.deps.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\bin\Debug\netcoreapp2.0\Exercises 02. Phonebook.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\bin\Debug\netcoreapp2.0\Exercises 02. Phonebook.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\bin\Debug\netcoreapp2.0\Exercises 02. Phonebook.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\bin\Debug\netcoreapp2.0\Exercises 02. Phonebook.pdb
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\obj\Debug\netcoreapp2.0\Exercises 02. Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\obj\Debug\netcoreapp2.0\Exercises 02. Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\obj\Debug\netcoreapp2.0\Exercises 02. Phonebook.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\obj\Debug\netcoreapp2.0\Exercises 02. Phonebook.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\obj\Debug\netcoreapp2.0\Exercises 02. Phonebook.dll
+C:\Users\user\Source\Repos\CSharp-Advanced\02.  Sets_And_Dictionaries\Exercises 02. Phonebook\obj\Debug\netcoreapp2.0\Exercises 02. Phonebook.pdb
