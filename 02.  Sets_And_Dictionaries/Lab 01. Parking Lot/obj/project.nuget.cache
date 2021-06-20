@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "69Qxrv3JzT6yh6G9u3Nc668WAaLruIFbI0aoMGSQNyIG65S4I2qvEFjTWBp2nRaqIO7uv2DN9KXB4+gsE/ESNA==",
+  "success": true,
+  "projectFilePath": "C:\\code\\repos\\softuni\\softuni-csharp\\advanced\\02.  Sets_And_Dictionaries\\Lab 01. Parking Lot\\Lab 01. Parking Lot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Developer\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

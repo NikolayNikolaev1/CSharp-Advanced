@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 01. Parking Lot", "Lab 01. Parking Lot\Lab 01. Parking Lot.csproj", "{BC3D1E21-381B-4BFB-8763-406CA6B6ACBC}"
 EndProject
@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 03. Periodic Table"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 01. Count Symbols", "Exercises 01. Count Symbols\Exercises 01. Count Symbols.csproj", "{3869A267-3394-4468-A2B1-3199DBED2F06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises 02. Phonebook", "Exercises 02. Phonebook\Exercises 02. Phonebook.csproj", "{2CA91EC8-BA57-42C2-B491-BD3822347134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises 02. Phonebook", "Exercises 02. Phonebook\Exercises 02. Phonebook.csproj", "{2CA91EC8-BA57-42C2-B491-BD3822347134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The-V-Logger", "The-V-Logger\The-V-Logger.csproj", "{F9C2AB15-865B-4DFB-B106-A6FCAF983B58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{2CA91EC8-BA57-42C2-B491-BD3822347134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CA91EC8-BA57-42C2-B491-BD3822347134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CA91EC8-BA57-42C2-B491-BD3822347134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C2AB15-865B-4DFB-B106-A6FCAF983B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C2AB15-865B-4DFB-B106-A6FCAF983B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C2AB15-865B-4DFB-B106-A6FCAF983B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C2AB15-865B-4DFB-B106-A6FCAF983B58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -664,26 +664,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Developer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\02.  Sets_And_Dictionaries\\Lab 03. Count Same Values in Array\\Lab 03. Count Same Values in Array.csproj",
+      "projectUniqueName": "C:\\code\\repos\\softuni\\softuni-csharp\\advanced\\02.  Sets_And_Dictionaries\\Lab 03. Count Same Values in Array\\Lab 03. Count Same Values in Array.csproj",
       "projectName": "Lab 03. Count Same Values in Array",
-      "projectPath": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\02.  Sets_And_Dictionaries\\Lab 03. Count Same Values in Array\\Lab 03. Count Same Values in Array.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Source\\Repos\\CSharp-Advanced\\02.  Sets_And_Dictionaries\\Lab 03. Count Same Values in Array\\obj\\",
+      "projectPath": "C:\\code\\repos\\softuni\\softuni-csharp\\advanced\\02.  Sets_And_Dictionaries\\Lab 03. Count Same Values in Array\\Lab 03. Count Same Values in Array.csproj",
+      "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\repos\\softuni\\softuni-csharp\\advanced\\02.  Sets_And_Dictionaries\\Lab 03. Count Same Values in Array\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -695,6 +688,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "projectReferences": {}
         }
       },
@@ -706,18 +700,26 @@
     },
     "frameworks": {
       "netcoreapp2.0": {
+        "targetAlias": "netcoreapp2.0",
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
